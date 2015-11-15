@@ -1,0 +1,39 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 550px;
+    
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+form{
+    margin-left: auto;
+    margin-right:auto;
+    background-color: lavender;
+}
+
+form.border{
+   margin-left: auto;
+    margin-right:auto;
+    border: 3px solid blue;
+    width: 500px;
+}
+
+#left {
+	margin: 5px;
+	}
+        
+#right {
+	margin: 0px;
+	}
